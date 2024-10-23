@@ -48,6 +48,14 @@
   pointer-events: none;
 }
 
+.game-title {
+  font-size: 2em; /* Adjust the size as needed */
+}
+
+.game-content {
+  font-size: 1.5em; /* Adjust the size as needed */
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
