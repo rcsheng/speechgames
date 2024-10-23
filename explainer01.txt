@@ -1,0 +1,30 @@
+Product Overview
+The Public Speaking Games Platform is a web-based platform designed to improve public speaking skills through interactive, fun, and short practice games. The platform enables users to develop communication skills by addressing common public speaking challenges such as confidence, flow, improvisation, and structured speech delivery.
+
+Key Features & Games:
+Conductor Game
+
+Objective: Improve control over speaking energy, tone, and rhythm.
+Description: Users are provided with a random title for a short speech. During the speech, users are shown random energy levels (from 1 to 10), which they must match by adjusting their tone and intensity while maintaining their flow.
+Goal: Users learn to modulate their energy levels and stay in character even under fluctuating emotional states.
+
+Triple Step Game
+
+Objective: Enhance the ability to stay on topic despite external distractions.
+Description: Users are given a topic for a 1-minute speech. Throughout the speech, random unrelated words are shown, and the user must seamlessly incorporate them into the speech without losing focus.
+Goal: Develop resilience against distractions and improve adaptability.
+
+Conviction Prompts
+
+Objective: Build executive presence by speaking with confidence and authority.
+Description: Users are given a topic and, during the speech, receive sentence prompts to complete. These prompts are designed to help the user speak with more conviction and confidence.
+Goal: Train users to deliver their speeches with more presence, ensuring they sound more convincing and assertive.
+
+Functional Requirements
+
+Game Management:
+- Random topic generation for each game.
+- Timer display for game durations (e.g., 1 minute, 3 minutes).
+- Dynamic prompts for Conviction Prompts and Triple Step.
+
+
