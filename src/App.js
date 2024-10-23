@@ -7,7 +7,7 @@ import ConvictionPrompts from './components/ConvictionPrompts';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/speechgames">
       <div className="App">
         <div className="sidebar">
           <header className="App-header">
