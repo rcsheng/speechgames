@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/speechgames/static/css/main.3682a8c8.css",
-    "main.js": "/speechgames/static/js/main.699797fc.js",
+    "main.css": "/speechgames/static/css/main.47542f9e.css",
+    "main.js": "/speechgames/static/js/main.09d88f33.js",
     "static/js/453.ed3810f9.chunk.js": "/speechgames/static/js/453.ed3810f9.chunk.js",
     "static/media/logo.svg": "/speechgames/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/speechgames/index.html",
-    "main.3682a8c8.css.map": "/speechgames/static/css/main.3682a8c8.css.map",
-    "main.699797fc.js.map": "/speechgames/static/js/main.699797fc.js.map",
+    "main.47542f9e.css.map": "/speechgames/static/css/main.47542f9e.css.map",
+    "main.09d88f33.js.map": "/speechgames/static/js/main.09d88f33.js.map",
     "453.ed3810f9.chunk.js.map": "/speechgames/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3682a8c8.css",
-    "static/js/main.699797fc.js"
+    "static/css/main.47542f9e.css",
+    "static/js/main.09d88f33.js"
   ]
 }
