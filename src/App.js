@@ -25,9 +25,9 @@ function App() {
               <li>
                 <Link to="/triple-step-game">Triple Step Game</Link>
               </li>
-              {/* <li>
+              <li>
                 <Link to="/conviction-prompts">Conviction Prompts</Link>
-              </li> */}
+              </li>
             </ul>
           </nav>
         </div>
